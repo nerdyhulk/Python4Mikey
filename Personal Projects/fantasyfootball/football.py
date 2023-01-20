@@ -1,0 +1,1 @@
+print('This is the start of the fantansy football py app for myself.\n')
