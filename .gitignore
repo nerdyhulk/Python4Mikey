@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 #Specific Files Mike doesn't want uploaded to the web
-/Python4Mikey/Personal Projects/ripper/local_settings.py
+Personal Projects/ripper/local_settings.py
 
 # User-specific files
 *.rsuser
